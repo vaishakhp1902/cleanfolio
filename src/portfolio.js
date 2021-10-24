@@ -1,19 +1,20 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://github.com/vaishakhp1902',
   title: 'JS.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Vaishakh Poduval',
+  role: 'Full stack developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'An Avid reader, trekker , developer and a hardcore football fan',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/vaishakh-p-6331a0186/',
+    github: 'https://github.com/vaishakhp1902',
+    salesforce: 'https://trailblazer.me/id/vaishakhp19',
   },
 }
 
@@ -23,13 +24,41 @@ const projects = [
   {
     name: 'Project 1',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'A food ordering app which is made on react-native which uses react navigation for managing and transitioning between screens,firebase for authentication and integrated with maps. It uses stripe for payment',
+    stack: [
+      'React-Native',
+      'styled',
+      'firebase',
+      'Google Maps API, Stripe API',
+    ],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
     name: 'Project 2',
+    description:
+      'A fully fledges Chat Application made entirely using serverless acrhitecture in AWS',
+    stack: [
+      'JS',
+      'Dynamo DB',
+      'API Gateway',
+      'AWS Cognito',
+      'Lambda',
+      'CloudFront',
+    ],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    name: 'Project 3',
+    description:
+      'An image gallery build using React and Tailwind CSS which hits the PixelBay API to retrieve the searched images',
+    stack: ['React', 'TailWind CSS', 'PixelBay API'],
+    sourceCode: 'https://github.com/vaishakhp1902/pix_search',
+    livePreview: 'https://pixgallery.netlify.app/',
+  },
+  {
+    name: 'Project 4',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['SASS', 'TypeScript', 'React'],
@@ -37,7 +66,15 @@ const projects = [
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'Project 5',
+    description:
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    name: 'Project 6',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['SASS', 'TypeScript', 'React'],
@@ -61,11 +98,12 @@ const skills = [
   'CI/CD',
   'Jest',
   'Enzyme',
+  'AWS',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'vaishakhp1998@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
