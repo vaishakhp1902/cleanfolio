@@ -7,7 +7,7 @@
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
+git clone https://github.com/vaishakhp1902/cleanfolio
 cd cleanfolio
 ```
 
@@ -44,7 +44,7 @@ yarn start
 
 - Go to `package.json` file and replace -
 
-`"homepage": "https://rajshekhar26.github.io/cleanfolio"`
+`"homepage": "https://vaishakhp1902.github.io/cleanfolio"`
 
 with `"homepage": "https://yourusername.github.io"`.
 
