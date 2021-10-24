@@ -1,6 +1,6 @@
 # Cleanfolio - a clean and simple portfolio template
 
-[Site live here](https://vaishakhp1902.github.io/cleanfolio,
+[Site live here](https://vaishakhp1902.github.io/cleanfolio
 )
 
 ## Instructions
