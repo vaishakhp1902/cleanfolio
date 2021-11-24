@@ -8,8 +8,7 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Vaishakh Poduval',
   role: 'Full stack developer',
-  description:
-    'An Avid reader, trekker , developer and a hardcore football fan',
+  description: 'An Avid reader, trekker and a Manchester United fan',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/vaishakh-p-6331a0186/',
