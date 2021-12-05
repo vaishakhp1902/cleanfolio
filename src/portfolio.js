@@ -9,7 +9,8 @@ const about = {
   name: 'Vaishakh Poduval',
   role: 'Full stack developer',
   description: 'An Avid reader, trekker and a Manchester United fan',
-  resume: 'https://example.com',
+  resume:
+    'https://docs.google.com/document/d/1Mzg1pRMuEoevSHsmvc0roUNjaLh3j5bb/edit?usp=sharing&ouid=102686574704929783399&rtpof=true&sd=true',
   social: {
     linkedin: 'https://www.linkedin.com/in/vaishakh-p-6331a0186/',
     github: 'https://github.com/vaishakhp1902',
