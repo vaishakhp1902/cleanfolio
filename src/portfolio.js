@@ -37,17 +37,16 @@ const projects = [
   {
     name: 'Project 2',
     description:
-      'A fully fledges Chat Application made entirely using serverless acrhitecture in AWS',
+      'A car rental service built in MERN stack,Redux for state management, node+express as backend and mongo db as the database',
     stack: [
-      'JS',
-      'Dynamo DB',
-      'API Gateway',
-      'AWS Cognito',
-      'Lambda',
-      'CloudFront',
+      'React/Redux',
+      'Antd',
+      'Express',
+      'Mongoose/MongoDb Atlas',
+      'bcrypt/jwt',
     ],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/vaishakhp1902/Cars4Rent',
+    livePreview: 'https://car-rental-service-420.herokuapp.com/',
   },
   {
     name: 'Project 3',
@@ -59,19 +58,19 @@ const projects = [
   },
   {
     name: 'Project 4',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    description: 'Automated System for literature',
+    stack: ['Python', 'Cowin API', 'Telegram bot Father'],
+    sourceCode: 'https://github.com/vaishakhp1902/covidBot',
+    livePreview: 'https://t.me/kannur_vaccine',
   },
   {
     name: 'Project 5',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A VSCode extension named "Motivation" which displays motivating memes from the subreddit r/motivation',
+    stack: ['Javascript', 'Reddit API'],
+    sourceCode: 'https://github.com/vaishakhp1902/motivation',
+    livePreview:
+      'https://marketplace.visualstudio.com/items?itemName=VaishakhPoduval.motivation',
   },
   {
     name: 'Project 6',
@@ -90,14 +89,15 @@ const skills = [
   'CSS',
   'JavaScript',
   'TypeScript',
-  'React',
+  'Node',
+  'React/React-Native',
   'Redux',
   'SASS',
   'Material UI',
+  'Antd',
   'Git',
   'CI/CD',
   'Jest',
-  'Enzyme',
   'AWS',
 ]
 
