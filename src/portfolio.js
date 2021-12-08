@@ -58,7 +58,8 @@ const projects = [
   },
   {
     name: 'Project 4',
-    description: 'Automated System for literature',
+    description:
+      'a telegram bot that notifies you if a vaccine slot is available in my locality',
     stack: ['Python', 'Cowin API', 'Telegram bot Father'],
     sourceCode: 'https://github.com/vaishakhp1902/covidBot',
     livePreview: 'https://t.me/kannur_vaccine',
