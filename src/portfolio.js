@@ -72,7 +72,7 @@ const projects = [
     sourceCode: 'https://github.com/vaishakhp1902/motivation',
     livePreview:
       'https://marketplace.visualstudio.com/items?itemName=VaishakhPoduval.motivation',
-  }
+  },
 ]
 
 const skills = [
