@@ -72,15 +72,7 @@ const projects = [
     sourceCode: 'https://github.com/vaishakhp1902/motivation',
     livePreview:
       'https://marketplace.visualstudio.com/items?itemName=VaishakhPoduval.motivation',
-  },
-  {
-    name: 'Project 6',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+  }
 ]
 
 const skills = [
